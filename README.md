@@ -10,3 +10,7 @@ Dont worry about anything here just yet, this is just a test website
 ## v0.01
 - Create
 - Nothing
+
+## v1.0
+- Add index.html
+- Update README.MD
